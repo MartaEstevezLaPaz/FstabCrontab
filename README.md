@@ -2,8 +2,8 @@
 
 1.- Fstab
 
-![foto](fstab.PNG)
+![foto](Fstab.PNG)
 
 2.- Crontab
 
-![foto](crontab.PNG)
+![foto](Crontab.png)
